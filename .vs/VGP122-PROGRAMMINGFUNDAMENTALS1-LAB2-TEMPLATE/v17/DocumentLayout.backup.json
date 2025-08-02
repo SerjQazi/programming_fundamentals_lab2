@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DAE9581B-B730-4CC2-A27E-32C364DAEEC8}|Q4\\Q4.vcxproj|E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q4\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAE9581B-B730-4CC2-A27E-32C364DAEEC8}|Q4\\Q4.vcxproj|solutionrelative:Q4\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73F82789-54C0-4BC0-8AEC-83BE96A647AA}|Q1\\Q1.vcxproj|E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{73F82789-54C0-4BC0-8AEC-83BE96A647AA}|Q1\\Q1.vcxproj|solutionrelative:Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4F9658-87DF-40A8-B7EA-2BDAC37D584B}|Q2\\Q2.vcxproj|E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB4F9658-87DF-40A8-B7EA-2BDAC37D584B}|Q2\\Q2.vcxproj|solutionrelative:Q2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9170588A-B794-4613-A38E-593022B4E767}|Q3\\Q3.vcxproj|E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9170588A-B794-4613-A38E-593022B4E767}|Q3\\Q3.vcxproj|solutionrelative:Q3\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +32,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q4\\Main.cpp",
+              "RelativeDocumentMoniker": "Q4\\Main.cpp",
+              "ToolTip": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q4\\Main.cpp",
+              "RelativeToolTip": "Q4\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-02T06:19:01.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q3\\Main.cpp",
+              "RelativeDocumentMoniker": "Q3\\Main.cpp",
+              "ToolTip": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q3\\Main.cpp",
+              "RelativeToolTip": "Q3\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-02T06:13:42.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q2\\Main.cpp",
+              "RelativeDocumentMoniker": "Q2\\Main.cpp",
+              "ToolTip": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q2\\Main.cpp",
+              "RelativeToolTip": "Q2\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-02T06:09:03.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
               "DocumentMoniker": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q1\\Main.cpp",
               "RelativeDocumentMoniker": "Q1\\Main.cpp",
               "ToolTip": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q1\\Main.cpp",
               "RelativeToolTip": "Q1\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-02T05:58:21.632Z",
               "EditorCaption": ""

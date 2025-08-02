@@ -14,15 +14,24 @@ using namespace std;
 
 int main() {
 	int counter = 0;
-	double number, largest = -1e9; // Initialize to a very small number
+	double number, largest;
+	bool firstInput = true; // Flag to track first input
+
 	while (counter < 10) {
 		cout << "Enter number " << (counter + 1) << ": ";
 		cin >> number;
-		if (number > largest) {
-			largest = number; // Update largest if current number is greater
+
+		if (firstInput) {
+			largest = number;
+			firstInput = false;
 		}
-		counter++; // Increment the counter
+		else if (number > largest) {
+			largest = number;
+		}
+
+		counter++;
 	}
+
 	cout << "The largest number is: " << largest << endl;
 	return 0;
 }
