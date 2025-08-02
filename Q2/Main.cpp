@@ -8,3 +8,21 @@ a. counter—A counter to count to 10 (i.e., to keep track of how many numbers
 have been input and to determine when all 10 numbers have been processed).
 b. number—The current number input to the program.
 c. largest—The largest number found so far. */
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	int counter = 0;
+	double number, largest = -1e9; // Initialize to a very small number
+	while (counter < 10) {
+		cout << "Enter number " << (counter + 1) << ": ";
+		cin >> number;
+		if (number > largest) {
+			largest = number; // Update largest if current number is greater
+		}
+		counter++; // Increment the counter
+	}
+	cout << "The largest number is: " << largest << endl;
+	return 0;
+}

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\TERM_2\\PROJECTS\\Programing\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB2-TEMPLATE\\",
+  "WorkspaceRootPath": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73F82789-54C0-4BC0-8AEC-83BE96A647AA}|Q1\\Q1.vcxproj|E:\\TERM_2\\PROJECTS\\Programing\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB2-TEMPLATE\\Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{73F82789-54C0-4BC0-8AEC-83BE96A647AA}|Q1\\Q1.vcxproj|E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{73F82789-54C0-4BC0-8AEC-83BE96A647AA}|Q1\\Q1.vcxproj|solutionrelative:Q1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "E:\\TERM_2\\PROJECTS\\Programing\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB2-TEMPLATE\\Q1\\Main.cpp",
+              "DocumentMoniker": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q1\\Main.cpp",
               "RelativeDocumentMoniker": "Q1\\Main.cpp",
-              "ToolTip": "E:\\TERM_2\\PROJECTS\\Programing\\VGP122-PROGRAMMINGFUNDAMENTALS1-LAB2-TEMPLATE\\Q1\\Main.cpp",
+              "ToolTip": "E:\\TERM_2\\PROJECTS\\Programing\\programming_fundamentals_lab2\\Q1\\Main.cpp",
               "RelativeToolTip": "Q1\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

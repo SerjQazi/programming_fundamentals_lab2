@@ -30,3 +30,38 @@ Enter total credits: 321.00
 Enter credit limit: 1500.00
 New balance is 802.45
 Enter Account Number (or -1 to quit): -1 */
+
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+int main() {
+	int accountNumber;
+	double beginningBalance, totalCharges, totalCredits, creditLimit, newBalance;
+	cout << fixed << setprecision(2); // Set output format for currency
+	while (true) {
+		cout << "Enter account number (or -1 to quit): ";
+		cin >> accountNumber;
+		if (accountNumber == -1) {
+			break; // Exit the loop if user enters -1
+		}
+		cout << "Enter beginning balance: ";
+		cin >> beginningBalance;
+		cout << "Enter total charges: ";
+		cin >> totalCharges;
+		cout << "Enter total credits: ";
+		cin >> totalCredits;
+		cout << "Enter credit limit: ";
+		cin >> creditLimit;
+		newBalance = beginningBalance + totalCharges - totalCredits;
+		cout << "New balance is " << newBalance << endl;
+		if (newBalance > creditLimit) {
+			cout << "Account: " << accountNumber << endl;
+			cout << "Credit limit: " << creditLimit << endl;
+			cout << "Balance: " << newBalance << endl;
+			cout << "Credit Limit Exceeded." << endl;
+		}
+	}
+	return 0;
+}
